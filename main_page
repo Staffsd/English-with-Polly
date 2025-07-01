@@ -1,0 +1,84 @@
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>English with Polly</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background-color: #f5f5f5;
+      color: #333;
+    }
+    header {
+      background-color: #4a90e2;
+      color: white;
+      padding: 2rem 1rem;
+      text-align: center;
+    }
+    main {
+      padding: 2rem 1rem;
+      max-width: 800px;
+      margin: auto;
+      background-color: white;
+    }
+    h1, h2 {
+      color: #4a90e2;
+    }
+    .contact {
+      margin-top: 2rem;
+    }
+    .contact a {
+      display: inline-block;
+      margin-right: 1rem;
+      margin-top: 1rem;
+      padding: 0.7rem 1.5rem;
+      background-color: #4a90e2;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background-color: #eee;
+      margin-top: 2rem;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Английский язык с Полиной</h1>
+    <p>Для взрослых и детей. Онлайн и офлайн.</p>
+  </header>
+  <main>
+    <h2>О преподавателе</h2>
+    <p>Здравствуйте! Меня зовут Полина, я дипломированный педагог с многолетним опытом преподавания английского языка детям и взрослым. 
+    Я обучаю учеников с разным уровнем подготовки: от начинающих до продвинутых. Индивидуальный подход к каждому ученику и упор на практику общения позволяют достигать уверенных результатов.</p>
+
+    <p>Имею международный подтвержденный уровень владения английским языком (сертификаты по международным стандартам), а также профильное педагогическое образование.</p>
+
+    <h2>Что вы получите</h2>
+    <ul>
+      <li>Развитие разговорных навыков</li>
+      <li>Подготовку к экзаменам и собеседованиям</li>
+      <li>Преодоление языкового барьера</li>
+      <li>Улучшение грамматики, словарного запаса и понимания на слух</li>
+      <li>Занятия в комфортном ритме и формате</li>
+    </ul>
+
+    <h2>Контакты</h2>
+    <p>Вы можете связаться со мной любым удобным способом:</p>
+    <div class="contact">
+      <a href="https://t.me/poli_eng" target="_blank">Написать в Telegram</a>
+      <a href="tel:+79991234567">Позвонить: +7 (996) 749-59-49</a>
+    </div>
+  </main>
+  <footer>
+    &copy; 2025 Полина — преподаватель английского языка. Все права защищены.
+  </footer>
+</body>
+</html>
